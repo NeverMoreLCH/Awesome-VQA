@@ -27,20 +27,15 @@ A reading list of papers about Visual Question Answering.
 
 ## Image QA Papers
 ### 2014 Papers
-- [2014][NIPS]A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input.[[paper](https://arxiv.org/pdf/1410.0210)][[中文解读]()]
+- [2014][NIPS] A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input.[[paper](https://arxiv.org/pdf/1410.0210)][[中文解读]()]
 ### 2015 Papers
-- [2015][CVPR]VisKE Visual Knowledge Extraction and Question Answering by Visual Verification of Relation Phrases.[[paper]()][[中文解读]()]
-- [2015][ICCV]Ask Your Neurons A Neural-Based Approach to Answering Questions About Images.[[paper]()][[中文解读]()]
-- [2015][ICCV]Visual Madlibs Fill in the Blank Description Generation and Question Answering.[[paper]()][[中文解读]()]
-- [2015][ICCV]VQA Visual Question Answering.[[paper]()][[中文解读]()]
-- [2015][NIPS]Are You Talking to a Machine Dataset and Methods for Multilingual Image Question Answering.[[paper]()][[中文解读]()]
-- [2015][NIPS]Exploring Models and Data for Image Question Answering.[[paper]()][[中文解读]()]
-- [2015][NIPS]VISALOGY Answering Visual Analogy Questions.[[paper]()][[中文解读]()]
-- .[[paper]()][[中文解读]()]
-- .[[paper]()][[中文解读]()]
-- .[[paper]()][[中文解读]()]
-- .[[paper]()][[中文解读]()]
-- .[[paper]()][[中文解读]()]
+- [2015][CVPR] VisKE Visual Knowledge Extraction and Question Answering by Visual Verification of Relation Phrases.[[paper]()][[中文解读]()]
+- [2015][ICCV] Ask Your Neurons A Neural-Based Approach to Answering Questions About Images.[[paper]()][[中文解读]()]
+- [2015][ICCV] Visual Madlibs Fill in the Blank Description Generation and Question Answering.[[paper]()][[中文解读]()]
+- [2015][ICCV] VQA Visual Question Answering.[[paper]()][[中文解读]()]
+- [2015][NIPS] Are You Talking to a Machine Dataset and Methods for Multilingual Image Question Answering.[[paper]()][[中文解读]()]
+- [2015][NIPS] Exploring Models and Data for Image Question Answering.[[paper]()][[中文解读]()]
+- [2015][NIPS] VISALOGY Answering Visual Analogy Questions.[[paper]()][[中文解读]()]
 ### 2016 Papers
 - [2016][CVPR]Answer-Type Prediction for Visual Question Answering.[[paper]()][[中文解读]()]
 - [2016][CVPR]Ask Me Anything Free-Form Visual Question Answering Based on Knowledge From External Sources.[[paper]()][[中文解读]()]

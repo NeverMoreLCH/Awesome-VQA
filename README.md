@@ -198,28 +198,28 @@ A reading list of papers about Visual Question Answering.
 
 ## Video QA Papers
 ### 2014 Papers
-- [2014][ACMMM] Joint video and text parsing for understanding events and answering queries.[[paper]()][[中文解读]()]
+- [2014][ACMMM] Joint video and text parsing for understanding events and answering queries.[[paper](https://arxiv.org/pdf/1308.6628)][[中文解读]()]
 ### 2015 Papers
-- [2015][arXiv] Uncovering temporal context for video question and answering.[[paper]()][[中文解读]()]
+- [2015][arXiv] Uncovering the temporal context for video question and answering.[[paper](https://arxiv.org/pdf/1511.04670)][[中文解读]()]
 ### 2016 Papers
-- [2016][CVPR] MovieQA, Understanding Stories in Movies through Question-Answering.[[paper]()][[中文解读]()]
+- [2016][CVPR] MovieQA, Understanding Stories in Movies through Question-Answering.[[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Tapaswi_MovieQA_Understanding_Stories_CVPR_2016_paper.pdf)][[中文解读]()]
 ### 2017 Papers
-- [2017][AAAI] Leveraging Video Descriptions to Learn Video Question Answering.[[paper]()][[中文解读]()]
-- [2017][ACMMM] VideoQA via Gradually Refined Attention over Appearance and Motion.[[paper]()][[中文解读]()]
-- [2017][ACMMM] VideoQA via Hierarchical Dual-Level Attention Network Learning.[[paper]()][[中文解读]()]
-- [2017][CVPR] A Dataset and Exploration of Models for Understanding Video Data Through Fill-In-The-Blank Question-Answering.[[paper]()][[中文解读]()]
+- [2017][AAAI] Leveraging Video Descriptions to Learn Video Question Answering.[[paper](https://ojs.aaai.org/index.php/AAAI/article/download/11238/11097)][[中文解读]()]
+- [2017][ACMMM] VideoQA via Gradually Refined Attention over Appearance and Motion.[[paper](https://www.comp.nus.edu.sg/~xiangnan/papers/mm17-videoQA.pdf)][[中文解读]()]
+- [2017][ACMMM] VideoQA via Hierarchical Dual-Level Attention Network Learning.[[paper](https://dl.acm.org/doi/abs/10.1145/3123266.3123364)][[中文解读]()]
+- [2017][CVPR] A Dataset and Exploration of Models for Understanding Video Data Through Fill-In-The-Blank Question-Answering.[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Maharaj_A_Dataset_and_CVPR_2017_paper.pdf)][[中文解读]()]
 - [2017][CVPR] End-to-end Concept Word Detection for Video Captioning, Retrieval, and Question Answering.[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yu_End-To-End_Concept_Word_CVPR_2017_paper.pdf)][[中文解读]()]
 - [2017][CVPR] TGIF-QA Toward Spatio-Temporal Reasoning in Visual Question Answering.[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Jang_TGIF-QA_Toward_Spatio-Temporal_CVPR_2017_paper.pdf)][[中文解读]()]
 - [2017][ICCV] MarioQA Answering Questions by Watching Gameplay Videos.[[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Mun_MarioQA_Answering_Questions_ICCV_2017_paper.pdf)][[中文解读]()]
 - [2017][ICCV] Video Fill In the Blank using LRRL LSTMs with Spatial-Temporal Attentions.[[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Mazaheri_Video_Fill_in_ICCV_2017_paper.pdf)][[中文解读]()]
-- [2017][IJCAI] Video Question Answering via Hierarchical Spatio-Temporal Attention Networks.[[paper]()][[中文解读]()]
-- [2017][SIGIR] Video Question Answering via Attributed-Augmented Attention Network Learning.[[paper]()][[中文解读]()]
+- [2017][IJCAI] Video Question Answering via Hierarchical Spatio-Temporal Attention Networks.[[paper](https://www.ijcai.org/Proceedings/2017/0492.pdf)][[中文解读]()]
+- [2017][SIGIR] Video Question Answering via Attributed-Augmented Attention Network Learning.[[paper](https://arxiv.org/pdf/1707.06355)][[中文解读]()]
 ### 2018 Papers
-- [2018][ACMMM] Explore Multi-Step Reasoning in Video Question Answering.[[paper]()][[中文解读]()]
+- [2018][ACMMM] Explore Multi-Step Reasoning in Video Question Answering.[[paper](https://dl.acm.org/doi/abs/10.1145/3240508.3240563)][[中文解读]()]
 - [2018][CVPR] Motion-Appearance Co-Memory Networks for Video Question Answering.[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gao_Motion-Appearance_Co-Memory_Networks_CVPR_2018_paper.pdf)][[中文解读]()]
 - [2018][ECCV] A Joint Sequence Fusion Model for Video Question Answering and Retrieval.[[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Youngjae_Yu_A_Joint_Sequence_ECCV_2018_paper.pdf)][[中文解读]()]
 - [2018][ECCV] Multimodal Dual Attention Memory for Video Story Question Answering.[[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Kyungmin_Kim_Multimodal_Dual_Attention_ECCV_2018_paper.pdf)][[中文解读]()]
-- [2018][EMNLP] TVQA, Localized, Compositional Video Question Answering.[[paper]()][[中文解读]()]
+- [2018][EMNLP] TVQA, Localized, Compositional Video Question Answering.[[paper](https://arxiv.org/pdf/1809.01696)][[中文解读]()]
 ### 2019 Papers
 - [2019][AAAI] Beyond RNNs: Positional Self-Attention with Co-Attention for Video Question Answering.[[paper](https://ojs.aaai.org/index.php/AAAI/article/download/4887/4760)][[中文解读]()]
 - [2019][AAAI] Structured Two-stream Attention Network for Video Question Answering.[[paper]()][[中文解读]()]

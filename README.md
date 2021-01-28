@@ -27,7 +27,7 @@ A reading list of papers about Visual Question Answering.
 
 ## Image QA Papers
 ### 2014 Papers
-- [2014][NIPS]A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input. [paper](https://arxiv.org/pdf/1410.0210)[code][中文讲解]
+- [2014][NIPS]A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input. [[paper](https://arxiv.org/pdf/1410.0210)][[中文解读]()]
 ### 2015 Papers
 ### 2016 Papers
 ### 2017 Papers

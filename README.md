@@ -1,6 +1,8 @@
 # Awesome-VQA
 A reading list of papers about Visual Question Answering.
 
+<br></br>
+
 ## Table of Contents
   * [Image QA Papers](#image-qa-papers)
      * [2014 Papers](#2014-papers)
@@ -25,6 +27,7 @@ A reading list of papers about Visual Question Answering.
 
 ## Image QA Papers
 ### 2014 Papers
+- [2014][NIPS]A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input. [paper][code][中文讲解]
 ### 2015 Papers
 ### 2016 Papers
 ### 2017 Papers

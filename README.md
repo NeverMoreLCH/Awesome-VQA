@@ -13,6 +13,7 @@ A reading list of papers about Visual Question Answering.
      * [2019 Papers](#2019-papers)
      * [2020 Papers](#2020-papers)
      * [2021 Papers](#2021-papers)
+
   * [Video QA Papers](#video-qa-papers)
      * [2014 Papers](#2014-papers-1)
      * [2015 Papers](#2015-papers-1)

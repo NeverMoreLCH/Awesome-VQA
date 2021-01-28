@@ -62,7 +62,6 @@ A reading list of papers about Visual Question Answering.
 - [2017][CVPR] Making the V in VQA Matter Elevating the Role of Image Understanding in Visual Question Answering.[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Goyal_Making_the_v_CVPR_2017_paper.pdf)][[中文解读]()]
 - [2017][CVPR] Mining Object Parts from CNNs via Active Question-Answering.[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Mining_Object_Parts_CVPR_2017_paper.pdf)][[中文解读]()]
 - [2017][CVPR] Multi-level Attention Networks for Visual Question Answering.[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yu_Multi-Level_Attention_Networks_CVPR_2017_paper.pdf)][[中文解读]()]
-- [2017][CVPR] TGIF-QA Toward Spatio-Temporal Reasoning in Visual Question Answering.[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Jang_TGIF-QA_Toward_Spatio-Temporal_CVPR_2017_paper.pdf)][[中文解读]()]
 - [2017][CVPR] The VQA-Machine Learning How to Use Existing Vision Algorithms to Answer New Questions.[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_The_VQA-Machine_Learning_CVPR_2017_paper.pdf)][[中文解读]()]
 - [2017][CVPR] What’s in a Question Using Visual Questions as a Form of Supervision.[[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Ganju_Whats_in_a_CVPR_2017_paper.pdf)][[中文解读]()]
 - [2017][ICCV] An Analysis of Visual Question Answering Algorithms.[[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Kafle_An_Analysis_of_ICCV_2017_paper.pdf)][[中文解读]()]
@@ -72,7 +71,6 @@ A reading list of papers about Visual Question Answering.
 - [2017][ICCV] Multi-modal Factorized Bilinear Pooling with Co-Attention Learning for Visual Question Answering.[[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Yu_Multi-Modal_Factorized_Bilinear_ICCV_2017_paper.pdf)][[中文解读]()]
 - [2017][ICCV] MUTAN Multimodal Tucker Fusion for Visual Question Answering.[[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Ben-younes_MUTAN_Multimodal_Tucker_ICCV_2017_paper.pdf)][[中文解读]()]
 - [2017][ICCV] Structured Attentions for Visual Question Answering.[[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Structured_Attentions_for_ICCV_2017_paper.pdf)][[中文解读]()]
-- [2017][ICCV] Video Fill In the Blank using LRRL LSTMs with Spatial-Temporal Attentions.[[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Mazaheri_Video_Fill_in_ICCV_2017_paper.pdf)][[中文解读]()]
 - [2017][ICCV] VQS Linking Segmentations to Questions and Answers for Supervised Attention in VQA and Question-Focused Semantic Segmentation.[[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Gan_VQS_Linking_Segmentations_ICCV_2017_paper.pdf)][[中文解读]()]
 - [2017][IJCAI] Automatic Generation of Grounded Visual Questions.[[paper](https://arxiv.org/pdf/1612.06530)][[中文解读]()]
 - [2017][IJCAI] Explicit Knowledge-based Reasoning for Visual Question Answering.[[paper](https://arxiv.org/pdf/1511.02570)][[中文解读]()]
@@ -208,7 +206,9 @@ A reading list of papers about Visual Question Answering.
 ### 2016 Papers
 ### 2017 Papers
 - [2017][CVPR] End-to-end Concept Word Detection for Video Captioning, Retrieval, and Question Answering.[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yu_End-To-End_Concept_Word_CVPR_2017_paper.pdf)][[中文解读]()]
+- [2017][CVPR] TGIF-QA Toward Spatio-Temporal Reasoning in Visual Question Answering.[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Jang_TGIF-QA_Toward_Spatio-Temporal_CVPR_2017_paper.pdf)][[中文解读]()]
 - [2017][ICCV] MarioQA Answering Questions by Watching Gameplay Videos.[[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Mun_MarioQA_Answering_Questions_ICCV_2017_paper.pdf)][[中文解读]()]
+- [2017][ICCV] Video Fill In the Blank using LRRL LSTMs with Spatial-Temporal Attentions.[[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Mazaheri_Video_Fill_in_ICCV_2017_paper.pdf)][[中文解读]()]
 ### 2018 Papers
 ### 2019 Papers
 ### 2020 Papers

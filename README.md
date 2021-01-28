@@ -55,7 +55,7 @@ A reading list of papers about Visual Question Answering.
 ### 2017 Papers
 - [2017][CVPR] An Empirical Evaluation of Visual Question Answering for Novel Objects.[[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Ramakrishnan_An_Empirical_Evaluation_CVPR_2017_paper.pdf)][[中文解读]()]
 - [2017][CVPR] Are You Smarter Than A Sixth Grader Textbook Question Answering for Multimodal Machine Comprehension.[[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Kembhavi_Are_You_Smarter_CVPR_2017_paper.pdf)][[中文解读]()]
-- [2017][CVPR] CLEVR A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning.[[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Johnson_CLEVR_A_Diagnostic_CVPR_2017_paper.pdf)][[中文解读]()]
+- [2017][CVPR] CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning.[[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Johnson_CLEVR_A_Diagnostic_CVPR_2017_paper.pdf)][[中文解读]()]
 - [2017][CVPR] Creativity Generating Diverse Questions using Variational Autoencoders.[[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Jain_Creativity_Generating_Diverse_CVPR_2017_paper.pdf)][[中文解读]()]
 - [2017][CVPR] Graph-Structured Representations for Visual Question Answering.[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Teney_Graph-Structured_Representations_for_CVPR_2017_paper.pdf)][[中文解读]()]
 - [2017][CVPR] Knowledge Acquisition for Visual Question Answering via Iterative Querying.[[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_Knowledge_Acquisition_for_CVPR_2017_paper.pdf)][[中文解读]()]

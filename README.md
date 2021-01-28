@@ -57,7 +57,6 @@ A reading list of papers about Visual Question Answering.
 - [2017][CVPR] Are You Smarter Than A Sixth Grader Textbook Question Answering for Multimodal Machine Comprehension.[[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Kembhavi_Are_You_Smarter_CVPR_2017_paper.pdf)][[中文解读]()]
 - [2017][CVPR] CLEVR A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning.[[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Johnson_CLEVR_A_Diagnostic_CVPR_2017_paper.pdf)][[中文解读]()]
 - [2017][CVPR] Creativity Generating Diverse Questions using Variational Autoencoders.[[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Jain_Creativity_Generating_Diverse_CVPR_2017_paper.pdf)][[中文解读]()]
-- [2017][CVPR] End-to-end Concept Word Detection for Video Captioning, Retrieval, and Question Answering.[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yu_End-To-End_Concept_Word_CVPR_2017_paper.pdf)][[中文解读]()]
 - [2017][CVPR] Graph-Structured Representations for Visual Question Answering.[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Teney_Graph-Structured_Representations_for_CVPR_2017_paper.pdf)][[中文解读]()]
 - [2017][CVPR] Knowledge Acquisition for Visual Question Answering via Iterative Querying.[[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_Knowledge_Acquisition_for_CVPR_2017_paper.pdf)][[中文解读]()]
 - [2017][CVPR] Making the V in VQA Matter Elevating the Role of Image Understanding in Visual Question Answering.[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Goyal_Making_the_v_CVPR_2017_paper.pdf)][[中文解读]()]
@@ -70,7 +69,6 @@ A reading list of papers about Visual Question Answering.
 - [2017][ICCV] Inferring and Executing Programs for Visual Reasoning.[[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Johnson_Inferring_and_Executing_ICCV_2017_paper.pdf)][[中文解读]()]
 - [2017][ICCV] Learning to Disambiguate by Asking Discriminative Questions.[[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Learning_to_Disambiguate_ICCV_2017_paper.pdf)][[中文解读]()]
 - [2017][ICCV] Learning to Reason End-to-End Module Networks for Visual Question Answering.[[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Hu_Learning_to_Reason_ICCV_2017_paper.pdf)][[中文解读]()]
-- [2017][ICCV] MarioQA Answering Questions by Watching Gameplay Videos.[[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Mun_MarioQA_Answering_Questions_ICCV_2017_paper.pdf)][[中文解读]()]
 - [2017][ICCV] Multi-modal Factorized Bilinear Pooling with Co-Attention Learning for Visual Question Answering.[[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Yu_Multi-Modal_Factorized_Bilinear_ICCV_2017_paper.pdf)][[中文解读]()]
 - [2017][ICCV] MUTAN Multimodal Tucker Fusion for Visual Question Answering.[[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Ben-younes_MUTAN_Multimodal_Tucker_ICCV_2017_paper.pdf)][[中文解读]()]
 - [2017][ICCV] Structured Attentions for Visual Question Answering.[[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Structured_Attentions_for_ICCV_2017_paper.pdf)][[中文解读]()]
@@ -209,6 +207,8 @@ A reading list of papers about Visual Question Answering.
 ### 2015 Papers
 ### 2016 Papers
 ### 2017 Papers
+- [2017][CVPR] End-to-end Concept Word Detection for Video Captioning, Retrieval, and Question Answering.[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yu_End-To-End_Concept_Word_CVPR_2017_paper.pdf)][[中文解读]()]
+- [2017][ICCV] MarioQA Answering Questions by Watching Gameplay Videos.[[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Mun_MarioQA_Answering_Questions_ICCV_2017_paper.pdf)][[中文解读]()]
 ### 2018 Papers
 ### 2019 Papers
 ### 2020 Papers

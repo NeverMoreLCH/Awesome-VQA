@@ -30,7 +30,8 @@ A reading list of papers about Visual Question Answering.
 
 ## Image QA Papers
 ### Datasets
-- [NoName][2014][NIPS] A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input.[[paper](https://arxiv.org/pdf/1410.0210)][[中文解读](https://blog.csdn.net/ms961516792/article/details/113369883)]
+- **NoName** [2014][NIPS] A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input.[[paper](https://arxiv.org/pdf/1410.0210)][[中文解读](https://blog.csdn.net/ms961516792/article/details/113369883)]
+- **GQA** [2019][CVPR] GQA, A New Dataset for Real-World Visual Reasoning and Compositional Question Answering.[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hudson_GQA_A_New_Dataset_for_Real-World_Visual_Reasoning_and_Compositional_CVPR_2019_paper.pdf)][[中文解读](https://blog.csdn.net/ms961516792/article/details/105073506)]
 ### 2014 Papers
 - [2014][NIPS] A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input.[[paper](https://arxiv.org/pdf/1410.0210)][[中文解读](https://blog.csdn.net/ms961516792/article/details/113369883)]
 ### 2015 Papers
@@ -145,7 +146,7 @@ A reading list of papers about Visual Question Answering.
 - [2019][CVPR] Cycle-Consistency for Robust Visual Question Answering.[[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shah_Cycle-Consistency_for_Robust_Visual_Question_Answering_CVPR_2019_paper.pdf)][[中文解读]()]
 - [2019][CVPR] Embodied Question Answering in Photorealistic Environments with Point Cloud Perception.[[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wijmans_Embodied_Question_Answering_in_Photorealistic_Environments_With_Point_Cloud_Perception_CVPR_2019_paper.pdf)][[中文解读]()]
 - [2019][CVPR] Explainable and Explicit Visual Reasoning over Scene Graphs.[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Explainable_and_Explicit_Visual_Reasoning_Over_Scene_Graphs_CVPR_2019_paper.pdf)][[中文解读]()]
-- [2019][CVPR] GQA, A New Dataset for Real-World Visual Reasoning and Compositional Question Answering.[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hudson_GQA_A_New_Dataset_for_Real-World_Visual_Reasoning_and_Compositional_CVPR_2019_paper.pdf)][[中文解读]()]
+- [2019][CVPR] GQA, A New Dataset for Real-World Visual Reasoning and Compositional Question Answering.[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hudson_GQA_A_New_Dataset_for_Real-World_Visual_Reasoning_and_Compositional_CVPR_2019_paper.pdf)][[中文解读](https://blog.csdn.net/ms961516792/article/details/105073506)]
 - [2019][CVPR] It’s not about the Journey; It’s about the Destination Following Soft Paths under Question-Guidance for Visual Reasoning.[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Haurilet_Its_Not_About_the_Journey_Its_About_the_Destination_Following_CVPR_2019_paper.pdf)][[中文解读]()]
 - [2019][CVPR] MUREL, Multimodal Relational Reasoning for Visual Question Answering.[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cadene_MUREL_Multimodal_Relational_Reasoning_for_Visual_Question_Answering_CVPR_2019_paper.pdf)][[中文解读]()]
 - [2019][CVPR] Towards VQA Models That Can Read.[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Singh_Towards_VQA_Models_That_Can_Read_CVPR_2019_paper.pdf)][[中文解读]()]

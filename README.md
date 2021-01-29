@@ -5,6 +5,7 @@ A reading list of papers about Visual Question Answering.
 
 ## Table of Contents
   * [Image QA Papers](#image-qa-papers)
+     * [Datasets](#datasets)
      * [2014 Papers](#2014-papers)
      * [2015 Papers](#2015-papers)
      * [2016 Papers](#2016-papers)
@@ -15,6 +16,7 @@ A reading list of papers about Visual Question Answering.
      * [2021 Papers](#2021-papers)
 
   * [Video QA Papers](#video-qa-papers)
+     * [Datasets](#datasets-1)
      * [2014 Papers](#2014-papers-1)
      * [2015 Papers](#2015-papers-1)
      * [2016 Papers](#2016-papers-1)
@@ -27,10 +29,12 @@ A reading list of papers about Visual Question Answering.
 <br></br>
 
 ## Image QA Papers
+### Datasets
+- [NoName][2014][NIPS] A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input.[[paper](https://arxiv.org/pdf/1410.0210)][[中文解读](https://blog.csdn.net/ms961516792/article/details/113369883)]
 ### 2014 Papers
-- [2014][NIPS] A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input.[[paper](https://arxiv.org/pdf/1410.0210)][[中文解读]()]
+- [2014][NIPS] A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input.[[paper](https://arxiv.org/pdf/1410.0210)][[中文解读](https://blog.csdn.net/ms961516792/article/details/113369883)]
 ### 2015 Papers
-- [2015][CVPR] VisKE, Visual Knowledge Extraction and Question Answering by Visual Verification of Relation Phrases.[[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sadeghi_VisKE_Visual_Knowledge_2015_CVPR_paper.pdf)][[中文解读]()]
+- [2015][CVPR] VisKE, Visual Knowledge Extraction and Question Answering by Visual Verification of Relation Phrases.[[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sadeghi_VisKE_Visual_Knowledge_2015_CVPR_paper.pdf)][[中文解读](https://blog.csdn.net/ms961516792/article/details/113369883)]
 - [2015][ICCV] Ask Your Neurons A Neural-Based Approach to Answering Questions About Images.[[paper](http://openaccess.thecvf.com/content_iccv_2015/papers/Malinowski_Ask_Your_Neurons_ICCV_2015_paper.pdf)][[中文解读]()]
 - [2015][ICCV] Visual Madlibs Fill in the Blank Description Generation and Question Answering.[[paper](http://openaccess.thecvf.com/content_iccv_2015/papers/Yu_Visual_Madlibs_Fill_ICCV_2015_paper.pdf)][[中文解读]()]
 - [2015][ICCV] VQA, Visual Question Answering.[[paper](http://openaccess.thecvf.com/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf)][[中文解读]()]
@@ -169,7 +173,7 @@ A reading list of papers about Visual Question Answering.
 ### 2020 Papers
 - [2020][arXiv] KRISP Integrating Implicit and Symbolic Knowledge for Open-Domain Knowledge-Based VQA.[[paper](https://arxiv.org/pdf/2012.11014)][[中文解读]()]
 - [2020][AAAI] Overcoming Language Priors in VQA via Decomposed Linguistic Representations.[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6776/6630)][[中文解读]()]
-- [2020][ACL] Cross-Modality Relevance for Reasoning on Language and Vision.[[paper](https://arxiv.org/pdf/2005.06035)][[中文解读]()]
+- [2020][ACL] Cross-Modality Relevance for Reasoning on Language and Vision.[[paper](https://arxiv.org/pdf/2005.06035)][[中文解读](https://blog.csdn.net/ms961516792/article/details/108254786)]
 - [2020][CVPR] Counterfactual Samples Synthesizing for Robust Visual Question Answering.[[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Counterfactual_Samples_Synthesizing_for_Robust_Visual_Question_Answering_CVPR_2020_paper.pdf)][[中文解读]()]
 - [2020][CVPR] Counterfactual Vision and Language Learning.[[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Abbasnejad_Counterfactual_Vision_and_Language_Learning_CVPR_2020_paper.pdf)][[中文解读]()]
 - [2020][CVPR] Fantastic Answers and Where to Find Them Immersive Question-Directed Visual Attention.[[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_Fantastic_Answers_and_Where_to_Find_Them_Immersive_Question-Directed_Visual_CVPR_2020_paper.pdf)][[中文解读]()]
@@ -186,7 +190,7 @@ A reading list of papers about Visual Question Answering.
 - [2020][ECCV][poster] Multi-Agent Embodied Question Answering in Interactive Environments.[[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580647.pdf)][[中文解读]()]
 - [2020][ECCV][poster] Reducing Language Biases in Visual Question Answering with Visually-Grounded Question Encoder.[[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580018.pdf)][[中文解读]()]
 - [2020][ECCV][poster] Semantic Equivalent Adversarial Data Augmentation for Visual Question Answering.[[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640426.pdf)][[中文解读]()]
-- [2020][ECCV][poster] TRRNet: Tiered Relation Reasoning for Compositional Visual Question Answering.[[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660409.pdf)][[中文解读]()]
+- [2020][ECCV][poster] TRRNet: Tiered Relation Reasoning for Compositional Visual Question Answering.[[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660409.pdf)][[中文解读](https://blog.csdn.net/ms961516792/article/details/112299186)]
 - [2020][ECCV][poster] Visual Question Answering on Image Sets.[[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660052.pdf)][[中文解读]()]
 - [2020][ECCV][poster] VQA-LOL: Visual Question Answering under the Lens of Logic.[[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660375.pdf)][[中文解读]()]
 - [2020][IJCAI] Mucko, Multi-Layer Cross-Modal Knowledge Reasoning for Fact-based VisualQuestion Answering.[[paper](https://arxiv.org/pdf/2006.09073)][[中文解读]()]
@@ -197,6 +201,8 @@ A reading list of papers about Visual Question Answering.
 <br></br>
 
 ## Video QA Papers
+### Datasets
+- 
 ### 2014 Papers
 - [2014][ACMMM] Joint video and text parsing for understanding events and answering queries.[[paper](https://arxiv.org/pdf/1308.6628)][[中文解读]()]
 ### 2015 Papers

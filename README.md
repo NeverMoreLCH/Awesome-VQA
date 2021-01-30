@@ -35,6 +35,7 @@ A reading list of papers about Visual Question Answering.
 ### 2014 Papers
 - [2014][NIPS] A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input.[[paper](https://arxiv.org/pdf/1410.0210)][[中文解读](https://blog.csdn.net/ms961516792/article/details/113369883)]
 ### 2015 Papers
+- [2015][CVPR] Don’t Just Listen, Use Your Imagination, Leveraging Visual Common Sense for Non-Visual Tasks.[[paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Lin_Dont_Just_Listen_2015_CVPR_paper.pdf)][[中文解读]()]
 - [2015][CVPR] VisKE, Visual Knowledge Extraction and Question Answering by Visual Verification of Relation Phrases.[[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sadeghi_VisKE_Visual_Knowledge_2015_CVPR_paper.pdf)][[中文解读](https://blog.csdn.net/ms961516792/article/details/113369883)]
 - [2015][ICCV] Ask Your Neurons A Neural-Based Approach to Answering Questions About Images.[[paper](http://openaccess.thecvf.com/content_iccv_2015/papers/Malinowski_Ask_Your_Neurons_ICCV_2015_paper.pdf)][[中文解读]()]
 - [2015][ICCV] Visual Madlibs Fill in the Blank Description Generation and Question Answering.[[paper](http://openaccess.thecvf.com/content_iccv_2015/papers/Yu_Visual_Madlibs_Fill_ICCV_2015_paper.pdf)][[中文解读]()]

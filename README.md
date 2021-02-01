@@ -46,6 +46,7 @@ A reading list of papers about Visual Question Answering.
 - [2015][NIPS] Exploring Models and Data for Image Question Answering.[[paper](https://arxiv.org/pdf/1505.02074)][[中文解读]()]
 - [2015][NIPS] VISALOGY Answering Visual Analogy Questions.[[paper](https://arxiv.org/pdf/1510.08973)][[中文解读]()]
 ### 2016 Papers
+- [2016][AAAI] Learning to answer questions from image using convolutional neural network.[[paper](https://ojs.aaai.org/index.php/AAAI/article/download/10442/10301)][[中文解读]()]
 - [2016][CVPR] Answer-Type Prediction for Visual Question Answering.[[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kafle_Answer-Type_Prediction_for_CVPR_2016_paper.pdf)][[中文解读]()]
 - [2016][CVPR] Ask Me Anything Free-Form Visual Question Answering Based on Knowledge From External Sources.[[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wu_Ask_Me_Anything_CVPR_2016_paper.pdf)][[中文解读]()]
 - [2016][CVPR] Image Question Answering using Convolutional Neural Network with Dynamic Parameter Prediction.[[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Noh_Image_Question_Answering_CVPR_2016_paper.pdf)][[中文解读]()]

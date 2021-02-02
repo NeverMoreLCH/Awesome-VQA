@@ -84,6 +84,7 @@ A reading list of papers about Visual Question Answering.
 - [2017][ICCV] VQS Linking Segmentations to Questions and Answers for Supervised Attention in VQA and Question-Focused Semantic Segmentation.[[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Gan_VQS_Linking_Segmentations_ICCV_2017_paper.pdf)][[中文解读]()]
 - [2017][IJCAI] Automatic Generation of Grounded Visual Questions.[[paper](https://arxiv.org/pdf/1612.06530)][[中文解读]()]
 - [2017][IJCAI] Explicit Knowledge-based Reasoning for Visual Question Answering.[[paper](https://arxiv.org/pdf/1511.02570)][[中文解读]()]
+- [2017][INLG] Data Augmentation for Visual Question Answering.[[paper](https://www.aclweb.org/anthology/W17-3529.pdf)][[中文解读]()]
 - [2017][NIPS] High-Order Attention Models for Visual Question Answering.[[paper](https://arxiv.org/pdf/1711.04323)][[中文解读]()]
 - [2017][NIPS] Multimodal Learning and Reasoning for Visual Question Answering.[[paper](http://papers.neurips.cc/paper/6658-multimodal-learning-and-reasoning-for-visual-question-answering.pdf)][[中文解读]()]
 - [2017][NIPS] Question Asking as Program Generation.[[paper](https://arxiv.org/pdf/1711.06351)][[中文解读]()]

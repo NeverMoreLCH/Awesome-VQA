@@ -203,6 +203,7 @@ A reading list of papers about Visual Question Answering.
 - [2020][ECCV][poster] Visual Question Answering on Image Sets.[[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660052.pdf)][[中文解读]()]
 - [2020][ECCV][poster] VQA-LOL: Visual Question Answering under the Lens of Logic.[[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660375.pdf)][[中文解读]()]
 - [2020][IJCAI] Mucko, Multi-Layer Cross-Modal Knowledge Reasoning for Fact-based VisualQuestion Answering.[[paper](https://arxiv.org/pdf/2006.09073)][[中文解读]()]
+- [2020][NeurIPS] Multimodal Graph Networks for Compositional Generalization in Visual Question Answering.[[paper](https://proceedings.neurips.cc/paper/2020/file/1fd6c4e41e2c6a6b092eb13ee72bce95-Paper.pdf)][[中文解读]()]
 - [2020][TMM] Self-Adaptive Neural Module Transformer for Visual Question Answering.[[paper](https://ieeexplore.ieee.org/abstract/document/9095237)][[中文解读]()]
 ### 2021 Papers
 - .[[paper]()][[中文解读]()]

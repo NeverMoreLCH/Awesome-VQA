@@ -3,6 +3,10 @@ A reading list of papers about Visual Question Answering.
 
 <br></br>
 
+![VQA](./img/VQA.jpg)
+
+<br></br>
+
 ## Table of Contents
   * [Image QA Papers](#image-qa-papers)
      * [Datasets](#datasets)

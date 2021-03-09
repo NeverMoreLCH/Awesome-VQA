@@ -1,8 +1,6 @@
 # Awesome-VQA
 A reading list of papers about Visual Question Answering.
 
-<br></br>
-
 ![VQA](./img/VQA.jpg)
 
 <br></br>

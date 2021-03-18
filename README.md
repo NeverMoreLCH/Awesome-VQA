@@ -55,6 +55,7 @@ A reading list of papers about Visual Question Answering.
 - **DAQUAR** [2014][NIPS] A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input.[[paper](https://arxiv.org/pdf/1410.0210)][[dataset](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/vision-and-language/visual-turing-challenge/)][[中文解读](https://blog.csdn.net/ms961516792/article/details/113369883)]
 
 ### 2021 Papers
+- [2021][AAAI] Regularizing Attention Networks for Anomaly Detection in Visual Question Answering.[[paper](https://arxiv.org/pdf/2009.10054)][[中文解读](https://blog.csdn.net/ms961516792/article/details/114974963?spm=1001.2014.3001.5501)]
 - .[[paper]()][[中文解读]()]
 
 ### 2020 Papers

@@ -46,6 +46,8 @@ A reading list of papers about Visual Question Answering.
 ## Image QA Papers
 ### Datasets
 - **GQA** [2019][CVPR] GQA, A New Dataset for Real-World Visual Reasoning and Compositional Question Answering.[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hudson_GQA_A_New_Dataset_for_Real-World_Visual_Reasoning_and_Compositional_CVPR_2019_paper.pdf)][[dataset](https://cs.stanford.edu/people/dorarad/gqa/evaluate.html)][[中文解读](https://blog.csdn.net/ms961516792/article/details/105073506)]
+- **VQA-CP** [2018][CVPR] .[[paper](Don’t Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering)][[dataset](https://www.cc.gatech.edu/grads/a/aagrawal307/vqa-cp/)][[中文解读](https://blog.csdn.net/ms961516792/article/details/105073506)]
+- **VQA v2.0** [2017][CVPR] Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering.[[paper](https://arxiv.org/pdf/1612.00837.pdf)][[dataset](https://visualqa.org/)][[中文解读]()]
 - **Visual7W** [2016][CVPR] Visual7W: Grounded Question Answering in Images.[[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Zhu_Visual7W_Grounded_Question_CVPR_2016_paper.pdf)][[dataset](http://ai.stanford.edu/~yukez/visual7w/)][[中文解读](https://blog.csdn.net/ms961516792/article/details/113609614)]
 - **SHAPES** [2016][CVPR] Neural Module Networks.[[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Andreas_Neural_Module_Networks_CVPR_2016_paper.pdf)][[dataset](https://github.com/jacobandreas/nmn2)][[中文解读](https://blog.csdn.net/ms961516792/article/details/113535076)]
 - **FM-IQA** [2015][NIPS] Are You Talking to a Machine Dataset and Methods for Multilingual Image Question Answering.[[paper](https://arxiv.org/pdf/1505.05612)][[dataset](http://research.baidu.com/Downloads)][[中文解读](https://blog.csdn.net/ms961516792/article/details/113496153)]
@@ -56,6 +58,12 @@ A reading list of papers about Visual Question Answering.
 
 ### 2021 Papers
 - [2021][AAAI] Regularizing Attention Networks for Anomaly Detection in Visual Question Answering.[[paper](https://arxiv.org/pdf/2009.10054)][[中文解读](https://blog.csdn.net/ms961516792/article/details/114974963?spm=1001.2014.3001.5501)]
+- [2021][CVPR] Causal Attention for Vision-Language Tasks.[[paper](https://arxiv.org/pdf/2103.03493)][[中文解读](https://blog.csdn.net/ms961516792/article/details/116641619?spm=1001.2014.3001.5501)]
+- [2021][CVPR] Counterfactual VQA: A Cause-Effect Look at Language Bias.[[paper](https://arxiv.org/pdf/2006.04315)][[中文解读]()]
+- [2021][CVPR] Domain-robust VQA with diverse datasets and methods but no target labels.[[paper](https://arxiv.org/pdf/2103.15974)][[中文解读]()]
+- [2021][CVPR] Found a Reason for me? Weakly-supervised Grounded Visual Question Answering using Capsules.[[paper](https://arxiv.org/pdf/2105.04836)][[中文解读]()]
+- [2021][CVPR] Separating Skills and Concepts for Novel Visual Question Answering.[[paper](https://blender.cs.illinois.edu/paper/cvpr2021.pdf)][[中文解读]()]
+- [2021][CVPR] Transformation Driven Visual Reasoning.[[paper](https://arxiv.org/pdf/2011.13160)][[中文解读]()]
 - .[[paper]()][[中文解读]()]
 
 ### 2020 Papers

@@ -60,7 +60,7 @@ A reading list of papers about Visual Question Answering.
 1. [2021][AAAI] Regularizing Attention Networks for Anomaly Detection in Visual Question Answering.[[paper](https://arxiv.org/pdf/2009.10054)][[中文解读](https://blog.csdn.net/ms961516792/article/details/114974963?spm=1001.2014.3001.5501)]
 2. [2021][CVPR] Causal Attention for Vision-Language Tasks.[[paper](https://arxiv.org/pdf/2103.03493)][[中文解读](https://blog.csdn.net/ms961516792/article/details/116641619?spm=1001.2014.3001.5501)]
 3. [2021][CVPR] Counterfactual VQA: A Cause-Effect Look at Language Bias.[[paper](https://arxiv.org/pdf/2006.04315)][[中文解读]()]
-4. [2021][CVPR] Domain-robust VQA with diverse datasets and methods but no target labels.[[paper](https://arxiv.org/pdf/2103.15974)][[中文解读]()]
+4. [2021][CVPR] Domain-robust VQA with diverse datasets and methods but no target labels.[[paper](https://arxiv.org/pdf/2103.15974)][[中文解读](https://blog.csdn.net/ms961516792/article/details/118001142)]
 5. [2021][CVPR] Found a Reason for me? Weakly-supervised Grounded Visual Question Answering using Capsules.[[paper](https://arxiv.org/pdf/2105.04836)][[中文解读]()]
 6. [2021][CVPR] Separating Skills and Concepts for Novel Visual Question Answering.[[paper](https://blender.cs.illinois.edu/paper/cvpr2021.pdf)][[中文解读]()]
 7. [2021][CVPR] Transformation Driven Visual Reasoning.[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_Transformation_Driven_Visual_Reasoning_CVPR_2021_paper.pdf)][[中文解读]()]

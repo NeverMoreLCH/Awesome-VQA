@@ -63,8 +63,16 @@ A reading list of papers about Visual Question Answering.
 - [2021][CVPR] Domain-robust VQA with diverse datasets and methods but no target labels.[[paper](https://arxiv.org/pdf/2103.15974)][[中文解读]()]
 - [2021][CVPR] Found a Reason for me? Weakly-supervised Grounded Visual Question Answering using Capsules.[[paper](https://arxiv.org/pdf/2105.04836)][[中文解读]()]
 - [2021][CVPR] Separating Skills and Concepts for Novel Visual Question Answering.[[paper](https://blender.cs.illinois.edu/paper/cvpr2021.pdf)][[中文解读]()]
-- [2021][CVPR] Transformation Driven Visual Reasoning.[[paper](https://arxiv.org/pdf/2011.13160)][[中文解读]()]
-- .[[paper]()][[中文解读]()]
+- [2021][CVPR] Transformation Driven Visual Reasoning.[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_Transformation_Driven_Visual_Reasoning_CVPR_2021_paper.pdf)][[中文解读]()]
+- [2021][CVPR] Predicting Human Scanpaths in Visual Question Answering.[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Predicting_Human_Scanpaths_in_Visual_Question_Answering_CVPR_2021_paper.pdf)][[中文解读]()]
+- [2021][CVPR] Perception Matters: Detecting Perception Failures of VQA Models Using Metamorphic Testing.[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yuan_Perception_Matters_Detecting_Perception_Failures_of_VQA_Models_Using_Metamorphic_CVPR_2021_paper.pdf)][[中文解读]()]
+- [2021][CVPR] Roses are Red, Violets are Blue... But Should VQA expect Them To?.[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Kervadec_Roses_Are_Red_Violets_Are_Blue..._but_Should_VQA_Expect_CVPR_2021_paper.pdf)][[中文解读]()]
+- [2021][CVPR] How Transferable are Reasoning Patterns in VQA?.[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Kervadec_How_Transferable_Are_Reasoning_Patterns_in_VQA_CVPR_2021_paper.pdf)][[中文解读]()]
+- [2021][CVPR] KRISP: Integrating Implicit and Symbolic Knowledge for Open-Domain Knowledge-Based VQA.[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Marino_KRISP_Integrating_Implicit_and_Symbolic_Knowledge_for_Open-Domain_Knowledge-Based_VQA_CVPR_2021_paper.pdf)][[中文解读]()]
+- [2021][CVPR] TAP: Text-Aware Pre-training for Text-VQA and Text-Caption.[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_TAP_Text-Aware_Pre-Training_for_Text-VQA_and_Text-Caption_CVPR_2021_paper.pdf)][[中文解读]()]
+- [2021][CVPR] .[[paper]()][[中文解读]()]
+- [2021][CVPR] .[[paper]()][[中文解读]()]
+
 
 ### 2020 Papers
 - [2020][arXiv] KRISP Integrating Implicit and Symbolic Knowledge for Open-Domain Knowledge-Based VQA.[[paper](https://arxiv.org/pdf/2012.11014)][[中文解读]()]
@@ -286,7 +294,13 @@ A reading list of papers about Visual Question Answering.
 - 
 
 ### 2021 Papers
-- .[[paper]()][[中文解读]()]
+- [2021][CVPR] SUTD-TrafficQA: A Question Answering Benchmark and an Efficient Network for Video Reasoning over Traffic Events.[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_SUTD-TrafficQA_A_Question_Answering_Benchmark_and_an_Efficient_Network_for_CVPR_2021_paper.pdf)][[中文解读]()]
+- [2021][CVPR] Bridge to Answer: Structure-aware Graph Interaction Network for Video Question Answering.[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Park_Bridge_To_Answer_Structure-Aware_Graph_Interaction_Network_for_Video_Question_CVPR_2021_paper.pdf)][[中文解读]()]
+- [2021][CVPR] NExT-QA: Next Phase of Question-Answering to Explaining Temporal Actions.[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Xiao_NExT-QA_Next_Phase_of_Question-Answering_to_Explaining_Temporal_Actions_CVPR_2021_paper.pdf)][[中文解读]()]
+- [2021][CVPR] .[[paper]()][[中文解读]()]
+- [2021][CVPR] .[[paper]()][[中文解读]()]
+- [2021][CVPR] .[[paper]()][[中文解读]()]
+- 
 
 ### 2020 Papers
 - [2020][CVPR] Hierarchical Conditional Relation Networks for Video Question Answering.[[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Le_Hierarchical_Conditional_Relation_Networks_for_Video_Question_Answering_CVPR_2020_paper.pdf)][[中文解读]()]

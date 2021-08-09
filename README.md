@@ -70,8 +70,8 @@ A reading list of papers about Visual Question Answering.
 11. [2021][CVPR] How Transferable are Reasoning Patterns in VQA?.[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Kervadec_How_Transferable_Are_Reasoning_Patterns_in_VQA_CVPR_2021_paper.pdf)][[中文解读]()]
 12. [2021][CVPR] KRISP: Integrating Implicit and Symbolic Knowledge for Open-Domain Knowledge-Based VQA.[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Marino_KRISP_Integrating_Implicit_and_Symbolic_Knowledge_for_Open-Domain_Knowledge-Based_VQA_CVPR_2021_paper.pdf)][[中文解读]()]
 13. [2021][CVPR] TAP: Text-Aware Pre-training for Text-VQA and Text-Caption.[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_TAP_Text-Aware_Pre-Training_for_Text-VQA_and_Text-Caption_CVPR_2021_paper.pdf)][[中文解读]()]
-- [2021][CVPR] .[[paper]()][[中文解读]()]
-- [2021][CVPR] .[[paper]()][[中文解读]()]
+- [2021][ICCV] Greedy Gradient Ensemble for Robust Visual Question Answering.[[paper](https://arxiv.org/pdf/2107.12651.pdf)][[中文解读]()]
+- [2021][ICCV] Just Ask: Learning to Answer Questions from Millions of Narrated Videos.[[paper](https://arxiv.org/pdf/2012.00451.pdf)][[中文解读]()]
 
 
 ### 2020 Papers
@@ -297,7 +297,7 @@ A reading list of papers about Visual Question Answering.
 1. [2021][CVPR] SUTD-TrafficQA: A Question Answering Benchmark and an Efficient Network for Video Reasoning over Traffic Events.[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_SUTD-TrafficQA_A_Question_Answering_Benchmark_and_an_Efficient_Network_for_CVPR_2021_paper.pdf)][[中文解读]()]
 2. [2021][CVPR] Bridge to Answer: Structure-aware Graph Interaction Network for Video Question Answering.[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Park_Bridge_To_Answer_Structure-Aware_Graph_Interaction_Network_for_Video_Question_CVPR_2021_paper.pdf)][[中文解读]()]
 3. [2021][CVPR] NExT-QA: Next Phase of Question-Answering to Explaining Temporal Actions.[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Xiao_NExT-QA_Next_Phase_of_Question-Answering_to_Explaining_Temporal_Actions_CVPR_2021_paper.pdf)][[中文解读]()]
-4. [2021][CVPR] .[[paper]()][[中文解读]()]
+4. [2021][ICCV] On the hidden treasure of dialog in video question answering.[[paper](https://arxiv.org/pdf/2103.14517.pdf)][[中文解读]()]
 5. [2021][CVPR] .[[paper]()][[中文解读]()]
 
 ### 2020 Papers

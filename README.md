@@ -8,6 +8,7 @@ A reading list of papers about Visual Question Answering.
 ## Table of Contents
   * [Image QA Papers](#image-qa-papers)
      * [Datasets](#datasets)
+     * [2022 Papers](#2022-papers)
      * [2021 Papers](#2021-papers)
      * [2020 Papers](#2020-papers)
      * [2019 Papers](#2019-papers)
@@ -55,6 +56,9 @@ A reading list of papers about Visual Question Answering.
 8. **Visual Madlibs** [2015][ICCV] Visual Madlibs Fill in the Blank Description Generation and Question Answering.[[paper](http://openaccess.thecvf.com/content_iccv_2015/papers/Yu_Visual_Madlibs_Fill_ICCV_2015_paper.pdf)][[dataset](http://tamaraberg.com/visualmadlibs/)][[中文解读](https://blog.csdn.net/ms961516792/article/details/113420551)]
 9. **DAQUAR-Consensus** [2015][ICCV] Ask Your Neurons A Neural-Based Approach to Answering Questions About Images.[[paper](http://openaccess.thecvf.com/content_iccv_2015/papers/Malinowski_Ask_Your_Neurons_ICCV_2015_paper.pdf)][[dataset](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/vision-and-language/visual-turing-challenge/)][[中文解读](https://blog.csdn.net/ms961516792/article/details/113420551)]
 10. **DAQUAR** [2014][NIPS] A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input.[[paper](https://arxiv.org/pdf/1410.0210)][[dataset](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/vision-and-language/visual-turing-challenge/)][[中文解读](https://blog.csdn.net/ms961516792/article/details/113369883)]
+
+### 2022 Papers
+1. [2022][arXiv] TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation.[[paper](https://arxiv.org/abs/2208.01813)]
 
 ### 2021 Papers
 1. [2021][AAAI] Regularizing Attention Networks for Anomaly Detection in Visual Question Answering.[[paper](https://arxiv.org/pdf/2009.10054)][[中文解读](https://blog.csdn.net/ms961516792/article/details/114974963?spm=1001.2014.3001.5501)]
